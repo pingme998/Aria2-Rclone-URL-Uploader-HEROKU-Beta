@@ -23,7 +23,8 @@ Other deployment details are same as stable, available [here](https://github.com
 
 ** note : Don't share this url to anyone
 
-
+* IMPORTANT : Don't Use Chrome (Android) browser it will fails to load aria2rclone website, stucks at blackscreen 
+### FOR Android users use BRAVE/Firefox instead of chrome
 
 ## What's New
 * torrent auto upload
