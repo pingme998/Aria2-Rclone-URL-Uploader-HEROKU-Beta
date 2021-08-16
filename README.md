@@ -10,7 +10,7 @@ Other deployment details are same as stable available {here](https://github.com/
 #### Step 1
 * Create a [Heroku](https://dashboard.heroku.com/login) Free account
 * Log in to Heroku in any browser
-* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU) and deploy app
+* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta) and deploy app
 #### Step 2 (CONFIG_FILE_IN_URL)
 
 * Generate rclone.conf file from any terminal or cmd or termux .
