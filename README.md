@@ -11,3 +11,5 @@ Please don't fork this repository beta may fails.
 ## New issues
 * parallel downloads 
 * progression output at downloading
+* 
+## start posting issues
