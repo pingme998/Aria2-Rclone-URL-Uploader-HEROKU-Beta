@@ -33,5 +33,7 @@ Other deployment details are same as stable available {here](https://github.com/
 ## New issues
 * parallel downloads 
 * progression output at downloading
-* 
 ## start posting issues
+
+Telegram : https://t.me/gitdeveloperanaz 
+Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
