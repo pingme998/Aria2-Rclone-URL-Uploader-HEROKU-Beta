@@ -5,7 +5,7 @@ Please don't fork this repository beta may fails.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta)
 
-Other deployment details are same as stable available [here](https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU)
+Other deployment details are same as stable, available [here](https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU)
 ## How To Deploy ?
 #### Step 1
 * Create a [Heroku](https://dashboard.heroku.com/login) Free account
@@ -33,7 +33,19 @@ Other deployment details are same as stable available [here](https://github.com/
 ## New issues
 * parallel downloads 
 * progression output at downloading
-## start posting issues
+
+# screenshots
+![demo](https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/example-imgs/Screenshot_20210513-105725.png)
+
+
+![demo0](https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/example-imgs/Screenshot_20210513-105759.png)
+
+
+![demo1](https://raw.githubusercontent.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU/main/example-imgs/Screenshot_20210513-105907.png)
+
+This repo is under development
+
+## start posting [issues](https://github.com/developeranaz/Aria2-Rclone-URL-Uploader-HEROKU-Beta/issues)
 
 Telegram : https://t.me/gitdeveloperanaz 
 
