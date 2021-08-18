@@ -31,7 +31,7 @@
     "        ! touch /progression.log\n",
     "        clear_output()\n",
     "        ! echo \"Your File is downloading.. don't close this tab\"\n",
-    "        ! while sleep 5; do clear; cat /progression.log | grep ETA |tail -1; if grep --quiet 'SEED\\|(OK):download completed' '/progression.log'; then pkill aria2c; fi; done & aria2c --dir=/home/{cloudname.value} --input-file=/urls.txt --max-concurrent-downloads=1 --connect-timeout=60 --max-connection-per-server=\"{threats.value}\" --split=\"{threats.value}\" --min-split-size=1M --human-readable=true --download-result=full --file-allocation=none >/progression.log\n",
+    "        ! while sleep 60; do clear; cat /progression.log | grep ETA |tail -1; if grep --quiet 'SEED\\|(OK):download completed' '/progression.log'; then pkill aria2c; fi; done & aria2c --dir=/home/{cloudname.value} --input-file=/urls.txt --max-concurrent-downloads=1 --connect-timeout=60 --max-connection-per-server=\"{threats.value}\" --split=\"{threats.value}\" --min-split-size=1M --human-readable=true --download-result=full --file-allocation=none >/progression.log\n",
     "        ! echo 'Download Complete'\n",
     "        ! echo 'Uploading Started'\n",
     "        ! rclone copy --progress --stats-one-line /home/{cloudname.value} {cloudname.value}:\n",
