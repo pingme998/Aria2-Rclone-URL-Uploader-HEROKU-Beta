@@ -3,6 +3,7 @@ rclone version
 mkdir /.config
 mkdir /.config/rclone/
 wget -nc $CONFIG_FILE_IN_URL -O '/.config/rclone/rclone.conf'
+wget -nc $CONFIG_IPYNB_IN_URL -O '/thefile.ipynb'
 rclone version
 rclone version
 rclone listremotes > remotes.txt
