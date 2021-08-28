@@ -13,6 +13,7 @@ RUN apt update -y  && \
     apt install wget -y && \
     apt install procps -y && \
     apt install parallel -y && \
+    apt install strace -y && \
     apt install pip -y && \
     pip install jupyter && \
     pip install voila && \
