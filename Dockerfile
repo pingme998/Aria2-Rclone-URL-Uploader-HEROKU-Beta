@@ -14,6 +14,7 @@ RUN apt update -y  && \
     apt install procps -y && \
     apt install parallel -y && \
     apt install pip -y && \
+    pip install youtube-dl && \
     pip install jupyter && \
     pip install voila && \
     pip install ipywidgets && \
