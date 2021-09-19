@@ -22,6 +22,7 @@ RUN apt update -y  && \
     mkdir /Essential-Files && \
     mkdir /voila && \
     mkdir /voila/files
+RUN apt install ffmpeg -y
 COPY Essential-Files /Essential-Files
 COPY Essential-Files/index.html /usr/index.html
 COPY Essential-Files/favicon.ico /voila/files/favicon.ico
